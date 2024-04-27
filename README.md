@@ -59,9 +59,14 @@ Welcome to the e-commerce backend project! This project aims to provide a robust
 3. **Set Up Environment Variables:**
    Create a `.env` file in the root directory and add the following variables:
    ```
+   NODE_ENV=dev
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_USERNAME=myuser
+   DB_PASSWORD=mypassword
+   DB_DATABASE=mydatabase
    PORT=3000
-   DATABASE_URL=postgres://username:password@localhost:5432/database_name
-   STRIPE_SECRET_KEY=your_stripe_secret_key
+   STRIPE_KEY=
    ```
 
 4. **Database Migration:**
