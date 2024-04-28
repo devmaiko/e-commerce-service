@@ -37,7 +37,7 @@ Welcome to the e-commerce backend project! This project aims to provide a robust
 - **Nest.js**: Progressive Node.js framework for building efficient, reliable, and scalable server-side applications
 - **TypeORM**: Object-Relational Mapping (ORM) library for TypeScript and JavaScript
 - **PostgreSQL**: Powerful open-source relational database management system
-- **Swagger**: 
+- **Swagger**: All APIs documented
 - **SNS (Simple Notification Service)**: Fully managed messaging service for event-driven architectures
 - **Stripe**: Payment processing platform for online businesses
 - **PDF**: When call get sales API will generate a pdf file with all info
