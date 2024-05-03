@@ -2,6 +2,8 @@
 
 # E-commerce Backend
 
+[![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,git,postgres,mysql,aws,jest)](https://skillicons.dev)
+
 Welcome to the e-commerce backend project! This project aims to provide a robust backend solution for managing various aspects of an e-commerce platform including customer management, payment processing, product management, cart functionality, order management, and sales tracking.
 
 ## Videos
